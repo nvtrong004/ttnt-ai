@@ -38,6 +38,4 @@ def Seach(ar, aray):
          
 
 
-
 Seach(ar, aray)
-
